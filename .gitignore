@@ -43,11 +43,11 @@ next-env.d.ts
 # /lib
 # /service
 # /pages/api
-/pages/customer
-/pages/products
-/pages/guide
-/pages/about-us
-/pages/404
+# /pages/customer
+# /pages/products
+# /pages/guide
+# /pages/about-us
+# /pages/404
 /public/images
 
 
