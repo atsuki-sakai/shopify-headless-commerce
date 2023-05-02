@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    letter-spacing: 1px;
+    font-size: 16px;
+}
