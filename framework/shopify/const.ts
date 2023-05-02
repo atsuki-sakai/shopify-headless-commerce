@@ -1,6 +1,6 @@
 
 
-const DEVLOPMENT = true
+const DEVLOPMENT = false
 // ShopifyのAPIはhttps通信しか受け付けない
 const NGROK_URL = "https://d244-121-87-71-83.ngrok-free.app"
 
