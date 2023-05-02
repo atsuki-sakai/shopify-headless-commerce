@@ -48,6 +48,6 @@ next-env.d.ts
 # /pages/guide
 # /pages/about-us
 # /pages/404
-/public/images
+# /public/images
 
 
